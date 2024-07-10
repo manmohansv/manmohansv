@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Manmohan Sellappagounder Veerappan, an AI/ML engineer interested in everything Computer Vision, Robotics Perception, Drones, Python and Data Science!
+
+- 🔭 I'm experienced in implementing Image Segmentation and Object detection on images and videos acquired from drones.
+- 🌱 I’m currently learning and improving my skills in:
+  -  Robotic perception
+  -  3D reconstruion.
+- 👯 I’m looking to collaborate on any robotics perception project or UAV projects.
+
+
+PS: don't fret by looking at my long name 😁
 <!--
 **manmohansv/manmohansv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
